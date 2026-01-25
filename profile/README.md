@@ -4,7 +4,7 @@
 # registration
 
 ## packages
-[package register](https://github.com/yuros-community/package/issues)
+[package register](https://github.com/yuros-community/register/issues/new)
 
 <!--
 
