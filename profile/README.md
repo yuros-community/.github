@@ -3,6 +3,9 @@
 
 # registration
 
+## course
+[bugs and feature request](https://github.com/rozard-course/register/issues/new)
+
 ## packages
 [package register](https://github.com/yuros-community/register/issues/new)
 
